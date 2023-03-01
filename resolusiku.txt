@@ -1,6 +1,7 @@
 RESOLUSI
 1. Figma
 2. HTML
-3. CSS
-4. Javascript
-5. Python
+3. CSS (Bootstrap, Tailwind)
+4. Javascript (Vue, Angular, React, NodeJS)
+5. Python (Django)
+6. PHP (Laravel)
