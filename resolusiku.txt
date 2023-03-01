@@ -1,0 +1,6 @@
+RESOLUSI
+1. Figma
+2. HTML
+3. CSS
+4. Javascript
+5. Python
